@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-crud",
+      "title": "FastAPI + SQLite Persistent CRUD API",
+      "description": "Build a FastAPI CRUD API backed by SQLite for persistent task data",
+      "path": "assignments/fastapi-sqlite-crud",
+      "dueDate": "2026-05-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
